@@ -17,7 +17,7 @@ graphql-core==2.3.1       # via django-graphql-jwt, graphene, graphene-django, g
 graphql-relay==2.0.1      # via graphene
 promise==2.3              # via graphene-django, graphql-core, graphql-relay
 psycopg2-binary==2.8.5    # via -r requirements.txt
-pyjwt==1.7.1              # via django-graphql-jwt
+pyjwt==2.4.0              # via django-graphql-jwt
 pytz==2020.1              # via django
 rx==1.6.1                 # via graphql-core
 singledispatch==3.4.0.3   # via graphene-django
